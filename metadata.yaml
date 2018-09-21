@@ -1,0 +1,35 @@
+_repo: Der-Sachsenspiegel-Eine-Geschichte-aus-der-Hohenstaufenzeit_53553
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schwormstädt, Felix
+    aliases:
+    - Schwormstädt, F.
+    - Schwormstadt, Felix
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '47433'
+    url: http://www.gutenberg.org/2009/agents/47433
+creator:
+  author:
+    agent_name: Wolff, Julius
+    birthdate: 1834
+    deathdate: 1910
+    gutenberg_agent_id: '47432'
+    url: http://www.gutenberg.org/2009/agents/47432
+description: ''
+gutenberg_issued: '2016-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53553'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction'
+- !lcsh 'Germany -- History -- Hohenstaufen, 1138-1254 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Der Sachsenspiegel: Eine Geschichte aus der Hohenstaufenzeit'
+url: http://www.gutenberg.org/ebooks/53553
